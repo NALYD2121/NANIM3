@@ -932,7 +932,7 @@ label {
     width: 100%;
     float: right;
     font-size: 18px;
-    color: #000000;
+    color: #b700ff;
     background-color: #ffffff;
     text-align: center;
     padding: 7px 0px;
@@ -940,7 +940,7 @@ label {
 }
 
 .suivant_bt a:hover {
-    color: #000;
+    color: #000000;
     background-color: #ffffff;
 }
 .btn-secondarys {
@@ -995,7 +995,7 @@ label {
   padding: 0.5rem 1.5rem;
   margin-bottom: 0;
   font-size: 0.875rem;
-  color: #6c757d;
+  color: #ffffff;
   white-space: nowrap;
 }
 
@@ -1005,10 +1005,10 @@ label {
   color: #212529;
 }
 .scroller {
-    width: 300px;
-    height: 100px;
+    width: 160px;
+    height: 150px;
     overflow-y: scroll;
-    scrollbar-color: rebeccapurple rgb(255, 255, 255);
+    scrollbar-color: rgb(0, 0, 0) #8400ff;
     scrollbar-width: thin;
   }
 

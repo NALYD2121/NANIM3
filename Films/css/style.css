@@ -779,7 +779,7 @@ input.email_text::placeholder {
 .footer_section {
     width: 100%;
     float: left;
-    background-color: #000000;
+    background-color: #ffffff;
     height: auto;
     padding: 90px 0px;
 }
@@ -805,11 +805,11 @@ input.email_text::placeholder {
 }
 
 .footer_menu li a {
-    color: #ffffff;
+    color: #8400ff;
 }
 
 .footer_menu li a:hover {
-    color: #8116d8;
+    color: #000000;
 }
 
 .social_icon {
@@ -932,14 +932,14 @@ label {
     width: 100%;
     float: right;
     font-size: 18px;
-    color: #000000;
+    color: #b700ff;
     background-color: #ffffff;
     text-align: center;
     padding: 7px 0px;
     border-radius: 40px;
 }
 
-.suivant_bt a:hover {
+.Suivant_bt a:hover {
     color: #000;
     background-color: #ffffff;
 }
@@ -954,7 +954,6 @@ label {
     border-radius: 40px;
     font-size: 18px;
 }
-
 .dropdowns-item {
   display: block;
   width: 100%;
@@ -995,7 +994,7 @@ label {
   padding: 0.5rem 1.5rem;
   margin-bottom: 0;
   font-size: 0.875rem;
-  color: #6c757d;
+  color: #ffffff;
   white-space: nowrap;
 }
 
@@ -1005,10 +1004,10 @@ label {
   color: #212529;
 }
 .scroller {
-    width: 300px;
-    height: 100px;
+    width: 160px;
+    height: 150px;
     overflow-y: scroll;
-    scrollbar-color: rebeccapurple rgb(255, 255, 255);
+    scrollbar-color: rgb(0, 0, 0) #8400ff;
     scrollbar-width: thin;
   }
 

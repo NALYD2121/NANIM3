@@ -939,8 +939,8 @@ label {
     border-radius: 40px;
 }
 
-.suivant_bt a:hover {
-    color: #000000;
+.Suivant_bt a:hover {
+    color: #000;
     background-color: #ffffff;
 }
 .btn-secondarys {
@@ -954,7 +954,6 @@ label {
     border-radius: 40px;
     font-size: 18px;
 }
-
 .dropdowns-item {
   display: block;
   width: 100%;

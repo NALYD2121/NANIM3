@@ -947,6 +947,73 @@ label {
     color: #000;
     background-color: #ffffff;
 }
+.btn-secondarys {
+    color: #8400ff;
+    background-color: #ffffff;
+    border-color: #ffffff;
+    position: absolute;
+    top: 50%; left: 50%; 
+    transform: translate(-50%, -50%);
+    line-height: normal;
+    border-radius: 40px;
+    font-size: 18px;
+}
+.dropdowns-item {
+  display: block;
+  width: 100%;
+  padding: 0.25rem 1.5rem;
+  clear: both;
+  font-weight: 400;
+  color: #000000;
+  text-align: inherit;
+  white-space: nowrap;
+  background-color: transparent;
+  border: 0;
+  font-size: 1rem;
+}
+
+.dropdowns-item:hover, .dropdown-item:focus {
+  color: #8400ff;
+  text-decoration: none;
+  background-color: #f8f9fa;
+}
+
+.dropdowns-item.active, .dropdown-item:active {
+  color: #fff;
+  text-decoration: none;
+  background-color: #007bff;
+}
+
+.dropdowns-item.disabled, .dropdown-item:disabled {
+  color: #000000;
+  background-color: transparent;
+}
+
+.dropdowns-menu.show {
+  display: block;
+}
+
+.dropdowns-header {
+  display: block;
+  padding: 0.5rem 1.5rem;
+  margin-bottom: 0;
+  font-size: 0.875rem;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+.dropdowns-item-text {
+  display: block;
+  padding: 0.25rem 1.5rem;
+  color: #212529;
+}
+.scroller {
+    width: 160px;
+    height: 150px;
+    overflow-y: scroll;
+    scrollbar-color: rgb(0, 0, 0) #8400ff;
+    scrollbar-width: thin;
+  }
 
 Film OP
 
@@ -1077,5 +1144,11 @@ Film OP
     border-radius: 40px;
     
 }
-  
-  
+.darkmode{
+    width:60px;
+    height:60px;
+    }
+    
+    .darkmode3{
+    margin: 100px 0 0 980px;
+    }

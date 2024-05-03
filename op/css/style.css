@@ -50,10 +50,6 @@ body {
     font-weight: normal;
     overflow-x: hidden;
 }
-body {
-background-color : #1c1c1e ;
-color : #fefefe ;
-}
 
 a {
     color: #1f1f1f;
@@ -244,8 +240,8 @@ button {
 .navbar-expand-lg .navbar-nav .nav-link {
     padding-right: 15px;
     padding-left: 15px;
-    font-size: 30px;
-    color: #8400ff;
+    font-size: 18px;
+    color: #000000;
 }
 
 .navbar-light .navbar-nav .nav-link:hover {
@@ -356,17 +352,17 @@ button {
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
-    padding-bottom: 1000px;
+    padding-bottom: 190px;
 }
 
 .image_2 {
     width: 100%;
     float: left;
-    background-image: url(../images/wano.jpg);
+    background-image: url(../images/img-2.png);
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
-    padding-bottom:1000px;
+    padding-bottom: 150px;
 }
 
 .jesusroch_text {
@@ -783,7 +779,7 @@ input.email_text::placeholder {
 .footer_section {
     width: 100%;
     float: left;
-    background-color: #000000;
+    background-color: #ffffff;
     height: auto;
     padding: 90px 0px;
 }
@@ -809,11 +805,11 @@ input.email_text::placeholder {
 }
 
 .footer_menu li a {
-    color: #ffffff;
+    color: #8400ff;
 }
 
 .footer_menu li a:hover {
-    color: #8116d8;
+    color: #000000;
 }
 
 .social_icon {
@@ -936,14 +932,14 @@ label {
     width: 100%;
     float: right;
     font-size: 18px;
-    color: #000000;
+    color: #b700ff;
     background-color: #ffffff;
     text-align: center;
     padding: 7px 0px;
     border-radius: 40px;
 }
 
-.Précédent_bt a:hover {
+.Suivant_bt a:hover {
     color: #000;
     background-color: #ffffff;
 }
@@ -1015,140 +1011,7 @@ label {
     scrollbar-width: thin;
   }
 
-Film OP
 
-.F1 {
-    width: 100%;
-    float: left;
-    background-image: url(../images/F1.jpg);
-    height: auto;
-    background-size: 100%;
-    background-repeat: no-repeat;
-}
-.F2 {
-    width: 100%;
-    float: left;
-    background-image: url(../images/F2.jpg);
-    height: auto;
-    background-size: 100%;
-    background-repeat: no-repeat;
-}
-.F3 {
-    width: 100%;
-    float: left;
-    background-image: url(../images/);
-    height: auto;
-    background-size: 100%;
-    background-repeat: no-repeat;
-}
-.f4 {
-    width: 100%;
-    float: left;
-    background-image: url(../images/F4.jpg);
-    height: auto;
-    background-size: 100%;
-    background-repeat: no-repeat;
-    padding-bottom: 300px;
-}
-.F5 {
-    width: 100%;
-    float: left;
-    background-image: url(../images/F5.jpg);
-    height: auto;
-    background-size: 100%;
-    background-repeat: no-repeat;
-}
-.F6 {
-    width: 100%;
-    float: left;
-    background-image: url(../images/F6.jpg);
-    height: auto;
-    background-size: 100%;
-    background-repeat: no-repeat;
-}
-.F7 {
-    width: 100%;
-    float: left;
-    background-image: url(../images/F7.jpg);
-    height: auto;
-    background-size: 100%;
-    background-repeat: no-repeat;
-}
-.F8 {
-    width: 100%;
-    float: left;
-    background-image: url(../images/F8.jpg);
-    height: auto;
-    background-size: 100%;
-    background-repeat: no-repeat;
-    padding-bottom:100px;
-}
-.F9 {
-    width: 100%;
-    float: left;
-    background-image: url(../images/F9.jpg);
-    height: auto;
-    background-size: 100%;
-    background-repeat: no-repeat;
-}
-.F10 {
-    width: 100%;
-    float: left;
-    background-image: url(../images/F10.jpg);
-    height: auto;
-    background-size: 100%;
-    background-repeat: no-repeat;
-}
-.F13 {
-    width: 100%;
-    float: left;
-    background-image: url(../images/F13.jpg);
-    height: auto;
-    background-size: 100%;
-    background-repeat: no-repeat;
-}
-.F14 {
-    width: 100%;
-    float: left;
-    background-image: url(../images/F14.jpg);
-    height: auto;
-    background-size: 100%;
-    background-repeat: no-repeat;
-}
-.FRED {
-    width: 100%;
-    float: left;
-    background-image: url(../images/FRED.jpg);
-    height: auto;
-    background-size: 100%;
-    background-repeat: no-repeat;
-}   
-.image_2{
-    width: 100%;
-    float: left;
-    background-image: url(../images/image_2.jpg);
-    height: 100%;
-    background-size: 100%;
-    background-repeat: no-repeat;
-}   
-.dark-mode_bt {
-    width: 170px;
-}
 
-.dark-mode_bt a {
-    width: 100%;
-    float: right;
-    font-size: 180px;
-    text-align: center;
-    padding: 7px 0px;
-    border-radius: 40px;
-    
-}
-.darkmode{
-    width:60px;
-    height:60px;
-    }
-    
-    .darkmode3{
-    margin: 100px 0 0 980px;
-    }
+  
+  

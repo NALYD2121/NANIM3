@@ -128,23 +128,25 @@
                <span class="Précédent_bt"><a href="#" title="Précédent">Précédent</a></span>
                <span class="Suivant_bt"><a href="2.html" title="Suivant">Suivant</a></span>
                <!DOCTYPE html>
-               <html lang="en">
-               <head>
-                   <meta charset="UTF-8">
-                   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-                   <title>Liste des épisodes</title>
-               </head>
-               <body>
-                   <div class="dropdown">
-                       <button class="btn btn-secondarys dropdown-toggles" type="button" id="dropdownMenuButton" style="position:absolute;top:50%;margin-top:50px;height:40px;" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                           Episode 1
-                       </button>
-                       <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                           <iframe src="episodes.php" frameborder="0" width="100%" height="300"></iframe>
-                       </div>
-                   </div>
-               </body>
-               </html>
+               <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Liste des épisodes</title>
+</head>
+<body>
+    <div class="dropdown">
+        <button class="btn btn-secondarys dropdown-toggles" type="button" id="dropdownMenuButton" style="position:absolute;top:50%;margin-top:50px;height:20px;" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Episode 1
+        </button>
+        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+            <?php include 'episodes.php'; ?>
+        </div>
+    </div>
+</body>
+</html>
+
             </ul>
          </nav>
       </div>

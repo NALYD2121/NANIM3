@@ -265,7 +265,7 @@ button {
 .banner_section {
     width: 100%;
     float: left;
-    background: linear-gradient(110deg, #8400ff 55%, rgba(0, 255, 255, 0) 55%), url(../images/op.png);
+    background: linear-gradient(150deg, #8400ff 10%, rgba(0, 255, 255, 0) 55%), url(../images/op.png);
     position: relative;
     padding-bottom: 90px;
 }

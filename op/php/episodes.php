@@ -25,7 +25,7 @@
                                User
                                <?php
                                 // Boucle pour générer les liens des épisodes
-                                $numEpisodes = 1102; // Nombre total d'épisodes
+                                $numEpisodes = 1104; // Nombre total d'épisodes
                                 $baseURL = "https://nalyd2121.github.io/NANIM3/op/";
 
                                 echo '<div class="scroller">';

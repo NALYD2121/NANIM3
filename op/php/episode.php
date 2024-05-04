@@ -55,7 +55,7 @@
                                    <h1>Liste des épisodes</h1>
 
                                    <!-- Inclusion du fichier PHP -->
-                                   <?php include '<op>episodes.php'; ?>
+                                   <?php include 'php/episodes.php'; ?>
 
                                </body>
 

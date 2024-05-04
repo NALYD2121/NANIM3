@@ -782,7 +782,6 @@ input.email_text::placeholder {
 .footer_section {
     width: 100%;
     float: left;
-    background-color: #000000;
     height: auto;
     padding: 90px 0px;
 }
@@ -808,7 +807,7 @@ input.email_text::placeholder {
 }
 
 .footer_menu li a {
-    color: #ffffff;
+    color: #8116d8;
 }
 
 .footer_menu li a:hover {
@@ -935,14 +934,14 @@ label {
     width: 100%;
     float: right;
     font-size: 18px;
-    color: #000000;
+    color: #8400ff;
     background-color: #ffffff;
     text-align: center;
     padding: 7px 0px;
     border-radius: 40px;
 }
 
-.Précédent_bt a:hover {
+.Suivant_bt a:hover {
     color: #000;
     background-color: #ffffff;
 }
@@ -1149,5 +1148,5 @@ Film OP
     }
     
     .darkmode3{
-    margin: 100px 0 0 980px;
+    margin: 100px 0 0 1100px;
     }

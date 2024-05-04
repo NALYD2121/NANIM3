@@ -11,7 +11,7 @@
 */
                                 /*---------------------------------------------------------------*/
 
-                                $nom_file = "fichier.php";
+                                $nom_file = "episode.php";
                                 $texte = "Hello world!";
 
                                 // création du fichier
@@ -36,3 +36,28 @@
                                 }
                                 echo '</div>';
                                 ?>
+
+
+
+                               (
+                               <!DOCTYPE html>
+                               <html lang="en">
+
+                               <head>
+                                   <meta charset="UTF-8">
+                                   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                                   <title>Liste des épisodes</title>
+                               </head>
+
+                               <body>
+
+                                   <!-- Contenu de la page -->
+                                   <h1>Liste des épisodes</h1>
+
+                                   <!-- Inclusion du fichier PHP -->
+                                   <?php include '<op>episodes.php'; ?>
+
+                               </body>
+
+                               </html>
+                               )

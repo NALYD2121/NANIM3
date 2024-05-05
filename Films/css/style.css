@@ -265,7 +265,7 @@ button {
 .banner_section {
     width: 100%;
     float: left;
-    background: linear-gradient(110deg, #8400ff 55%, rgba(0, 255, 255, 0) 55%), url(../images/op.png);
+    background: linear-gradient(150deg, #8400ff 1%, rgba(0, 255, 255, 0) 55%), url(../images/op.png);
     position: relative;
     padding-bottom: 90px;
 }
@@ -783,7 +783,6 @@ input.email_text::placeholder {
 .footer_section {
     width: 100%;
     float: left;
-    background-color: #000000;
     height: auto;
     padding: 90px 0px;
 }
@@ -809,7 +808,7 @@ input.email_text::placeholder {
 }
 
 .footer_menu li a {
-    color: #ffffff;
+    color: #6007d4;
 }
 
 .footer_menu li a:hover {
@@ -1145,8 +1144,8 @@ Film OP
     
 }
 .darkmode{
-    width:60px;
-    height:60px;
+    width:80px;
+    height:80px;
     }
     
     .darkmode3{

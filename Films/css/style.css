@@ -935,14 +935,14 @@ label {
     width: 100%;
     float: right;
     font-size: 18px;
-    color: #000000;
+    color: #8400ff;
     background-color: #ffffff;
     text-align: center;
     padding: 7px 0px;
     border-radius: 40px;
 }
 
-.Précédent_bt a:hover {
+.Suivant_bt a:hover {
     color: #000;
     background-color: #ffffff;
 }
@@ -1131,23 +1131,33 @@ Film OP
     background-repeat: no-repeat;
 }   
 .dark-mode_bt {
-    width: 170px;
+    width: 80px;
+    position: fixed; 
+    top: 50px; 
+    right: 35px;
 }
 
 .dark-mode_bt a {
     width: 100%;
     float: right;
-    font-size: 180px;
+    font-size: 18px; 
     text-align: center;
     padding: 7px 0px;
     border-radius: 40px;
-    
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
 }
-.darkmode{
-    width:80px;
-    height:80px;
-    }
-    
-    .darkmode3{
+
+.dark-mode_bt a:hover {
+    background-color: #555;
+}
+
+.darkmode {
+    width: 80px;
+    height: 80px;
+}
+
+.darkmode3 {
     margin: 100px 0 0 980px;
-    }
+}
